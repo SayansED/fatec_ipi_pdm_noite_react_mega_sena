@@ -17,7 +17,6 @@ export default function App() {
    // Adciona os numeros no array
    setNumeros([numeros]);
  }
-
   return (
     <View style={styles.container}>
         <Text style={styles.tituloText}>MEGA SENA</Text>
